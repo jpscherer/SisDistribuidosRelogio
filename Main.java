@@ -13,7 +13,7 @@ import java.util.Calendar;
  */
 public class Main {
     
-    public static int qtdServidores = 7;
+    public static int qtdServidores = 8;
     
     //EQUIPE - 14
     //Jean Patrick Scherer
